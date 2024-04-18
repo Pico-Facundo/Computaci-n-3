@@ -1,1 +1,7 @@
-# Computaci-n-3
+Pico Facundo Trabajo practico °1: Estructura HTML5
+Empecé escribiendo los datos que me parecían más relevantes en un curriculum como son los datos personales, académicos y de contacto, para luego agregar otros elementos para que el tp no se sintiera tan escaso y vacío, por lo que agregue un par de imágenes de trabajos anteriores en mis cursadas de materias y un par de datos en una breve presentación, también agregue redes sociales aunque en realidad solo las primeras 3 aplicaciones utilizo (Whatsapp, Pinterest y Instagram).
+Los colores predominantes son diferentes azules y blancos, elección simplemente por gusto y por parecerse a una ventana del sistema Windows y se utilizó “Rubik” para el texto, una tipografía linkeada de Google Font. El editor de código utilizado fue Dreamweaver en una pantalla de 1366x768px aunque en el editor siempre se veía en 1043x545px.
+Agregue captura de pantalla de como se ve en la mía, la primera es como se ve al abrir el HTML sin zoom y la segunda con el zoom al 50% para que pueda verse más el contenido junto.![captura_completa](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/6dd6a1f3-368a-4a4b-ac64-2da28a7dfed8)
+![captura2](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/65e5a93d-5322-40b8-a76d-44e28dfa071c)
+![captura3](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/3d5c6e33-4a49-42f3-ad87-9818713e4864)
+![captura_50%zoom](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/b218e7f1-6a08-4020-9d2a-36b23e3e6347)
