@@ -1,7 +1,10 @@
-Pico Facundo Trabajo practico °1: Estructura HTML5
-Empecé escribiendo los datos que me parecían más relevantes en un curriculum como son los datos personales, académicos y de contacto, para luego agregar otros elementos para que el tp no se sintiera tan escaso y vacío, por lo que agregue un par de imágenes de trabajos anteriores en mis cursadas de materias y un par de datos en una breve presentación, también agregue redes sociales aunque en realidad solo las primeras 3 aplicaciones utilizo (Whatsapp, Pinterest y Instagram).
-Los colores predominantes son diferentes azules y blancos, elección simplemente por gusto y por parecerse a una ventana del sistema Windows y se utilizó “Rubik” para el texto, una tipografía linkeada de Google Font. El editor de código utilizado fue Dreamweaver en una pantalla de 1366x768px aunque en el editor siempre se veía en 1043x545px.
-Agregue captura de pantalla de como se ve en la mía, la primera es como se ve al abrir el HTML sin zoom y la segunda con el zoom al 50% para que pueda verse más el contenido junto.![captura_completa](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/6dd6a1f3-368a-4a4b-ac64-2da28a7dfed8)
-![captura2](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/65e5a93d-5322-40b8-a76d-44e28dfa071c)
-![captura3](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/3d5c6e33-4a49-42f3-ad87-9818713e4864)
-![captura_50%zoom](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/b218e7f1-6a08-4020-9d2a-36b23e3e6347)
+Portfolio de Pico, Luis Facundo Pastor
+
+Link a Figma: https://www.figma.com/design/crsiTAtPaUByQEEruQWIXi/pico_facundo_tpindividual?node-id=68-8&t=CWIMK76qiS0edTuy-1
+
+Para el trabajo del Portfolio utilice el editor Dreamweaver en una pantalla de 1366 x 768px, aunque en el editor se veía de 1043 x 545px. De todas formas se diseñó principalmente para una definición de 1920x1080px usando el “inspeccionar” de 2 navegadores (Google Chrome y Brave).
+
+Sobre el diseño lo hice diferente al tp anterior ya que no me había terminado de gustar para agregar otros colores y algunos elementos curvos para no verse tanto como bloques, también se cambió algunos de los trabajos realizados por otros con mejor presentación además de una breve explicación sobre estos.
+
+Captura de pantalla
+![_C__Users_Equipo_Desktop_Repositorios_portfolio_index html](https://github.com/Pico-Facundo/Computacion-3/assets/102604765/4ba70723-1eb7-4105-8c88-f0b1b152ee0e)
